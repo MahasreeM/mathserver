@@ -85,6 +85,8 @@ urlpatterns = [
 ```
 
 # SERVER SIDE PROCESSING:
+![Screenshot 2024-12-07 095816](https://github.com/user-attachments/assets/4a4dd82e-88df-4946-b206-7dc9dd45aa02)
+
 # HOMEPAGE:
 ![Screenshot 2024-12-06 115610](https://github.com/user-attachments/assets/fb178984-cc52-4605-9614-3c9995db99fa)
 
